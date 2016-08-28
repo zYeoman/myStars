@@ -55,11 +55,13 @@
 
 ## C
 
+* [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 * [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 * [the_silver_searcher](https://github.com/kjk/the_silver_searcher) - Windows port of The Silver Searcher (like grep or ack but faster).
 * [30dayMakeOS](https://github.com/yourtion/30dayMakeOS) - 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
 * [swiss](https://github.com/minoca/swiss) - Unix multitool for Windows and Minoca OS
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
+* [nuklear](https://github.com/vurtun/nuklear) - A small ANSI C gui library
 * [vis](https://github.com/martanne/vis) - a vim like text editor
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 * [clib](https://github.com/clibs/clib) - C package manager-ish
@@ -70,17 +72,18 @@
 
 ## C#
 
-* [PokeMobBot](https://github.com/PocketMobsters/PokeMobBot) - The Pokemon Go Bot
+* [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot) - a Pokemon Go Bot by PokeMobBot Team - Discord: https://discord.gg/8msqsWV | Forums:
 * [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.
 * [Bangumi-Api](https://github.com/arition/Bangumi-Api) - Unoffical Bangumi Api based on netaba.re
 * [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - live view of earth from space
 
 ## C++
 
+* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 * [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - Banshee Game Engine
 * [Fake-Everything](https://github.com/Artwalk/Fake-Everything) - Everything的原理猜想与实现
-* [easyLambda](https://github.com/haptork/easyLambda) - data processing with modern C++ and MPI. Modular, parallel, based on data-flow with map and reduce.
+* [easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 * [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
 * [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 * [safaia-framework](https://github.com/dsh0416/safaia-framework) - Web Framework designed for cpp
@@ -95,7 +98,7 @@
 ## CSS
 
 * [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
-* [programming-fonts-collection](https://github.com/ProgrammingFonts/programming-fonts-collection) - This is only a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
+* [programming-fonts-collection](https://github.com/ProgrammingFonts/programming-fonts-collection) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 * [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -111,6 +114,8 @@
 
 ## Go
 
+* [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+* [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth.
 * [pdf](https://github.com/rsc/pdf) - PDF reader
@@ -129,7 +134,6 @@
 
 ## HTML
 
-* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -137,6 +141,8 @@
 
 ## Java
 
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android开发人员不得不收集的代码(持续更新中)
+* [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 * [agera](https://github.com/google/agera) - Reactive Programming for Android
 * [pixiv-crawler](https://github.com/ScienJus/pixiv-crawler) - 通过网页爬虫批量下载 Pixiv 图片
 * [RealStuff](https://github.com/IvorHu/RealStuff) - 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
@@ -145,7 +151,7 @@
 * [LeeCo](https://github.com/Nightonke/LeeCo) - LeeCo is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.
 * [Meizhi](https://github.com/drakeet/Meizhi) - gank.io unofficial client, RxJava & Retrofit
 * [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - Nice loading animations for Android
-* [jianshi](https://github.com/wingjay/jianshi) - A beautiful app 简诗 for recording anything in your life with traditional Chinese style.
+* [jianshi](https://github.com/wingjay/jianshi) - A beautiful app jianshi(简诗) (including Android & Server) for recording anything in your life with traditional Chinese style.
 * [Conquer](https://github.com/hanks-zyh/Conquer) - A todo list app base Material Design
 * [ComicReader](https://github.com/android-cjj/ComicReader) - 漫画App
 * [Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary) - 
@@ -155,14 +161,16 @@
 
 ## JavaScript
 
+* [wechatircd](https://github.com/MaskRay/wechatircd) - 用IRC客户端控制微信网页版
+* [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+* [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 * [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * [Packages](https://github.com/sublimehq/Packages) - 
 * [parse-server](https://github.com/ParsePlatform/parse-server) - Parse-compatible API server module for Node/Express
 * [Qarticles](https://github.com/hilongjw/Qarticles) - A lightweight and high performance JavaScript library for creating physical particles
-* [sublime-emoji-code](https://github.com/idleberg/sublime-emoji-code) - Sublime Text completions to insert escaped Emoji codes into HTM, CSS, JavaScript and Ruby
-* [nuklear](https://github.com/vurtun/nuklear) - A small ANSI C gui toolkit
 * [regexgen.js](https://github.com/amobiz/regexgen.js) - RegexGen.js is a JavaScript Regular Expression Generator that helps to construct complex regular expressions.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 * [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native) - Jiandan App client implemented using React Native for Android.
@@ -180,6 +188,7 @@
 * [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 * [plotly.js](https://github.com/plotly/plotly.js) - The open source javascript graphing library that powers plotly
 * [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 * [image-cli](https://github.com/egoist/image-cli) - Uploading local or remote images from CLI to store in Cloud.
 * [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
 * [strapdown-zeta](https://github.com/chaitin/strapdown-zeta) - Instant and elegant Markdown documents in the browser, Git powered markdown wiki server, mathjax and theme support, and many more features!
@@ -197,7 +206,7 @@
 
 ## Jupyter Notebook
 
-* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
 
 ## Kotlin
 
@@ -215,7 +224,9 @@
 
 ## Others
 
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+* [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
+* [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
+* [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources) - 
 * [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - 
 * [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
 * [one-python](https://github.com/geekan/one-python) - We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.
@@ -250,6 +261,8 @@
 
 ## Python
 
+* [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A curated list of awesome applications, softwares, tools and other materials for Linux distros.
+* [plotly.py](https://github.com/plotly/plotly.py) - An interactive, browser-based graphing library for Python :sparkles:
 * [SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
 * [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
 * [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -310,7 +323,6 @@
 * [paperwork](https://github.com/jflesch/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way (Linux only)
 * [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 * [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 * [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code.
 * [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
@@ -345,6 +357,7 @@
 
 ## Shell
 
+* [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell
 * [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 * [cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt
 * [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -377,6 +390,7 @@
 
 ## VimL
 
+* [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 * [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 * [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 * [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility.
