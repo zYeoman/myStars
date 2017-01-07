@@ -15,6 +15,7 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -41,7 +42,7 @@
 
 ## Assembly 
 
-- [systemf](https://github.com/ajyoon/systemf) - a brainfuck interpreter supporting linux syscalls with an HTTP server to prove it
+- [systemf](https://github.com/ajyoon/systemf) - a brainfuck interpreter supporting linux syscalls with an example HTTP server
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## AutoHotkey 
@@ -64,7 +65,7 @@
 - [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
-- [tinyre](https://github.com/fy0/tinyre) - A light fork of python's regex engine (but slow).
+- [tinyre](https://github.com/fy0/tinyre) - A light fork of python's regex engine (but slow, ~3k lines).
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [the_silver_searcher](https://github.com/kjk/the_silver_searcher) - Windows port of The Silver Searcher (like grep or ack but faster).
@@ -125,8 +126,13 @@
 
 - [Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat) - This is weixin/wechat adapter for hubot.
 
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
+
 ## Go 
 
+- [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -149,6 +155,8 @@
 
 ## HTML 
 
+- [randomized](https://github.com/sparanoid/randomized) - Erratic colors for machines and people, powered by machine learning and artificial intelligence, just kidding.
+- [uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -184,6 +192,8 @@
 
 ## JavaScript 
 
+- [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
+- [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
 - [lightbox2](https://github.com/lokesh/lightbox2) - The original lightbox script, now on Github!
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [Eve](https://github.com/witheve/Eve) - Better tools for thought
@@ -275,7 +285,7 @@
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone.
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - 2015 年在微信热传的 100+ 篇经典技术文章
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -306,7 +316,7 @@
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [AniCal](https://github.com/zYeoman/AniCal) - Create Japanese anime iCalendar
-- [wechatircd](https://github.com/MaskRay/wechatircd) - 用IRC客户端控制微信网页版
+- [wechatircd](https://github.com/MaskRay/wechatircd) - ㊙用IRC客户端控制微信网页版
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [altify](https://github.com/ParhamP/altify) - Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
@@ -359,7 +369,7 @@
 - [edward](https://github.com/blei-lab/edward) - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
 - [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise.
-- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口（支持文件、图片上下载）、微信机器人及命令行微信。三十行即可自定义个人号机器人。
+- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
 - [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example.
 - [colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
@@ -387,7 +397,7 @@
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
@@ -416,6 +426,7 @@
 
 ## Ruby 
 
+- [command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM
 - [dryrun](https://github.com/cesarferreira/dryrun) - :coffee: Try the demo project of any Android Library
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
 - [cii-best-practices-badge](https://github.com/linuxfoundation/cii-best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
@@ -473,11 +484,12 @@
 
 ## VimL 
 
+- [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
-- [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: A vim configuration for spacemacs
+- [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [pyrepl.vim](https://github.com/Bogdanp/pyrepl.vim) - VIM plugin that provides a way to run a Python REPL inside a VIM buffer.
 - [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - Run Async Shell Commands in Vim 8.0 and Output to Quickfix Window
