@@ -15,7 +15,6 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
-  - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -101,6 +100,7 @@
 - [Fake-Everything](https://github.com/Artwalk/Fake-Everything) - Everything的原理猜想与实现
 - [easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [safaia-framework](https://github.com/dsh0416/safaia-framework) - Web Framework designed for cpp
 - [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [NERvSDK](https://github.com/NERvGear/NERvSDK) - Nerve Gear SDK - The Plug-in Development Kits for SAO Utils
@@ -126,19 +126,16 @@
 
 - [Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat) - This is weixin/wechat adapter for hubot.
 
-## Erlang 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
-
 ## Go 
 
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth.
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 support, standby for Go v1.8.
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -161,7 +158,7 @@
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
-- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
 
@@ -226,7 +223,7 @@
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [youdaodict](https://github.com/HalfdogStudio/youdaodict) - 一个简单的基于有道在线翻译的GreaseMonkey屏幕取词脚本，在哪个网站都能用:)
-- [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
 - [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
@@ -413,7 +410,6 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
-- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [hug](https://github.com/timothycrosley/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 - [baidu_ocr](https://github.com/Linusp/baidu_ocr) - An OCR client use Baidu API
