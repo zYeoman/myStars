@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 - [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
 - [lightbox2](https://github.com/lokesh/lightbox2) - The original lightbox script, now on Github!
@@ -309,6 +310,8 @@
 
 ## Python 
 
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - 
+- [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
@@ -433,6 +436,7 @@
 
 ## Rust 
 
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
 - [git-journal](https://github.com/saschagrunert/git-journal) - The Git Commit Message and Changelog Generation Framework :book:
 - [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
