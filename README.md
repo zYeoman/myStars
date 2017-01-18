@@ -51,6 +51,7 @@
 
 ## Batchfile 
 
+- [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南
 - [vimx64](https://github.com/gisphm/vimx64) - using vs2015 to build win64 vim
 
 ## Brainfuck 
@@ -102,7 +103,6 @@
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [safaia-framework](https://github.com/dsh0416/safaia-framework) - Web Framework designed for cpp
-- [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [NERvSDK](https://github.com/NERvGear/NERvSDK) - Nerve Gear SDK - The Plug-in Development Kits for SAO Utils
 - [merry](https://github.com/name5566/merry) - A command executor
 
@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -161,6 +162,7 @@
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
+- [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 
 ## Haskell 
 
@@ -265,6 +267,7 @@
 
 ## Others 
 
+- [Awesome-APIs](https://github.com/abhishekbanthia/Awesome-APIs) - 📚 A curated list of APIs from round the web.
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
