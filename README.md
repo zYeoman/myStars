@@ -28,6 +28,7 @@
   - [Others](#others)
   - [Perl](#perl)
   - [PowerShell](#powershell)
+  - [Protocol Buffer](#protocol buffer)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -102,7 +103,7 @@
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
-- [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - Banshee Game Engine
+- [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting
 - [Fake-Everything](https://github.com/Artwalk/Fake-Everything) - Everything的原理猜想与实现
 - [easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
@@ -179,6 +180,7 @@
 
 ## Java 
 
+- [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
@@ -200,6 +202,7 @@
 
 ## JavaScript 
 
+- [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player) - 替换斗鱼的Flash弹幕播放器
 - [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 - [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
@@ -276,6 +279,7 @@
 
 ## Others 
 
+- [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A curated list of APIs from round the web.
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
@@ -287,7 +291,7 @@
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
 - [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources) - 
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - 
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
 - [one-python](https://github.com/geekan/one-python) - We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.
 - [base16](https://github.com/chriskempson/base16) - Syntax highlighting for hackers
@@ -317,12 +321,18 @@
 ## PowerShell 
 
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+- [ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Color themes for ConEmu
 - [psget](https://github.com/psget/psget) - Set of commands to install PowerShell modules from local file or from the web. Inspired by NuGet
 - [console-settings](https://github.com/kobilutil/console-settings) - Default settings and color scheme for Windows console that looks good in cmd.exe and in powershell
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
+## Protocol Buffer 
+
+- [manta](https://github.com/dotabuff/manta) - Dota 2 Source 2 Replay Parser
+
 ## Python 
 
+- [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
 - [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 - [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-pythonic syntatic sugar to Python
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
@@ -341,7 +351,6 @@
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
 - [convertdate](https://github.com/fitnr/convertdate) - Utils for converting between date formats and calculating holidays
-- [ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Color themes for ConEmu
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [beeprint](https://github.com/panyanyany/beeprint) - make your debug printing more friendly
@@ -353,7 +362,7 @@
 - [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
-- [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models
@@ -385,7 +394,7 @@
 - [fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [edward](https://github.com/blei-lab/edward) - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
 - [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
 - [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example.
@@ -436,7 +445,7 @@
 - [musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) - 网易云音乐
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller official GIT repository
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
 
@@ -502,26 +511,26 @@
 ## Vim script 
 
 - [vim-paste-easy](https://github.com/roxma/vim-paste-easy) - Automatically set paste for you
+- [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 - [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility.
+- [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - Run Async Shell Commands in Vim 8.0 and Output to Quickfix Window
+- [dotvim](https://github.com/lilydjwg/dotvim) - My vim config
+- [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 ## VimL 
 
 - [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
-- [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
-- [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [pyrepl.vim](https://github.com/Bogdanp/pyrepl.vim) - VIM plugin that provides a way to run a Python REPL inside a VIM buffer.
-- [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - Run Async Shell Commands in Vim 8.0 and Output to Quickfix Window
-- [dotvim](https://github.com/lilydjwg/dotvim) - My vim config
 - [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
-- [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 - [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
-- [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
-- [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
 
 ## Vue 
