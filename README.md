@@ -16,6 +16,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [D](#d)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -136,6 +137,10 @@
 
 - [Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat) - This is weixin/wechat adapter for hubot.
 
+## D 
+
+- [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler.
+
 ## Go 
 
 - [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
@@ -202,6 +207,7 @@
 
 ## JavaScript 
 
+- [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player) - 替换斗鱼的Flash弹幕播放器
 - [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
@@ -242,7 +248,6 @@
 - [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [image-cli](https://github.com/egoist/image-cli) - Uploading local or remote images from CLI to store in Cloud.
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
@@ -281,7 +286,7 @@
 
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A curated list of APIs from round the web.
+- [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
 - [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
@@ -334,7 +339,7 @@
 
 - [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
 - [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
-- [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-pythonic syntatic sugar to Python
+- [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - 
@@ -431,6 +436,7 @@
 - [paperwork](https://github.com/jflesch/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code.
 - [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
@@ -470,6 +476,7 @@
 
 ## Shell 
 
+- [wttr.in](https://github.com/chubin/wttr.in) - Web frontend for wego
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(自动生成头信息，自动补全，自动折叠，自动生成markdown目录)
 - [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
