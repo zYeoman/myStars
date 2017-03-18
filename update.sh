@@ -4,6 +4,7 @@ if type "starred" > /dev/null; then
     starred --username=zYeoman --sort > README.md
 else
     echo "Please pip install starred first!"
+    exit
 fi
 git diff
 read -p "Do you wish to commit and push?[Y/n]" yn
