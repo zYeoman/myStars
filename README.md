@@ -17,6 +17,7 @@
   - [CoffeeScript](#coffeescript)
   - [D](#d)
   - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs lisp)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -64,6 +65,8 @@
 
 ## C 
 
+- [byakuren](https://github.com/XadillaX/byakuren) - 🎭 A theme color extracting library implemented by C.
+- [LCUI](https://github.com/lc-soft/LCUI) - A simple GUI library, it is written in C, support XML and CSS.
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -121,7 +124,7 @@
 ## CSS 
 
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
-- [programming-fonts-collection](https://github.com/ProgrammingFonts/programming-fonts-collection) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
+- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -141,7 +144,11 @@
 
 ## Elixir 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+
+## Emacs Lisp 
+
+- [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Go 
 
@@ -164,7 +171,7 @@
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go入门指南》
-- [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) - 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+- [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
 ## HTML 
@@ -174,6 +181,7 @@
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -197,7 +205,7 @@
 - [Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - 好玩的下拉刷新控件，让我们一起来回味童年
 - [LeeCo](https://github.com/Nightonke/LeeCo) - LeeCo is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.
-- [Meizhi](https://github.com/drakeet/Meizhi) - gank.io unofficial client, RxJava & Retrofit
+- [Meizhi](https://github.com/drakeet/Meizhi) - gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project: https://github.com/drakeet/rebase-android)
 - [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - Nice loading animations for Android
 - [jianshi](https://github.com/wingjay/jianshi) - A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style.
 - [Conquer](https://github.com/hanks-zyh/Conquer) - A todo list app base Material Design
@@ -228,7 +236,6 @@
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -269,6 +276,7 @@
 
 ## Jupyter Notebook 
 
+- [edward](https://github.com/blei-lab/edward) - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
 
 ## Kotlin 
@@ -277,6 +285,7 @@
 
 ## Lua 
 
+- [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation using conditional adversarial nets
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
@@ -343,13 +352,14 @@
 
 ## Python 
 
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
 - [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 - [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - 
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, ...
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
@@ -396,7 +406,7 @@
 - [Packages](https://github.com/sublimehq/Packages) - 
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [vprof](https://github.com/nvdv/vprof) - Visual Python profiler
-- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [function-pattern-matching](https://github.com/rasguanabana/function-pattern-matching) - Pattern matching and guards for Python functions
 - [trufont](https://github.com/trufont/trufont) - A cross-platform, modular font editor. À l’ancienne.
@@ -404,7 +414,6 @@
 - [colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
-- [edward](https://github.com/blei-lab/edward) - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
 - [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
@@ -440,7 +449,7 @@
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
-- [paperwork](https://github.com/jflesch/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way
+- [paperwork](https://github.com/jflesch/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way (Linux/Windows)
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
@@ -531,10 +540,13 @@
 - [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
 - [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - Run Async Shell Commands in Vim 8.0 and Output to Quickfix Window
 - [dotvim](https://github.com/lilydjwg/dotvim) - My vim config
+- [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+- [k-vim](https://github.com/wklken/k-vim) - vim配置
 
 ## VimL 
 
@@ -543,10 +555,7 @@
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [pyrepl.vim](https://github.com/Bogdanp/pyrepl.vim) - VIM plugin that provides a way to run a Python REPL inside a VIM buffer.
-- [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
-- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
-- [k-vim](https://github.com/wklken/k-vim) - vim配置
 
 ## Vue 
 
