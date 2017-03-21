@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [duoshuo-https](https://github.com/rainwsy/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF - the runtime asset format for WebGL, OpenGL ES, and OpenGL.
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
@@ -359,7 +360,7 @@
 - [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, ...
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, Navier-Stokes Equation, ...
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
