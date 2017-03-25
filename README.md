@@ -123,9 +123,9 @@
 
 ## CSS 
 
+- [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
-- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [Learn-Project](https://github.com/xxr3376/Learn-Project) - 清华大学网络学堂优化工具
@@ -144,7 +144,7 @@
 
 ## Elixir 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Emacs Lisp 
 
@@ -170,6 +170,7 @@
 - [ici.go](https://github.com/Flowerowl/ici.go) - A Golang implementation of the Ici(https://github.com/Flowerowl/ici)
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go入门指南》
 - [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -195,6 +196,7 @@
 
 ## Java 
 
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
@@ -297,6 +299,8 @@
 
 ## Others 
 
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
 - [Interactive-animation](https://github.com/Rano1/Interactive-animation) - Collect android animation
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
@@ -353,6 +357,9 @@
 
 ## Python 
 
+- [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
+- [isso](https://github.com/posativ/isso) - a Disqus alternative
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
@@ -493,6 +500,7 @@
 
 ## Shell 
 
+- [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(自动生成头信息，自动补全，自动折叠，自动生成markdown目录)
