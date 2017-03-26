@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+trap "echo CTRL-C was pressed && exit" 2
 if type "starred" > /dev/null; then
     starred --username=zYeoman --sort > README.md
 else
