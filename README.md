@@ -233,7 +233,7 @@
 - [bangumi-list](https://github.com/wxt2005/bangumi-list) - 大陆版权新番播放地址聚合站 V2
 - [Proton](https://github.com/a-jie/Proton) - A particle engine for html5
 - [TinyBlog](https://github.com/YangHanqing/TinyBlog) - 极简的Markdown博客,支持评论
-- [anime](https://github.com/juliangarnier/anime) - Javascript Animation Engine
+- [anime](https://github.com/juliangarnier/anime) - JavaScript Animation Engine
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport. :eyes:
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -388,7 +388,7 @@
 - [beeprint](https://github.com/panyanyany/beeprint) - make your debug printing more friendly
 - [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
 - [easyargs](https://github.com/stedmeister/easyargs) - A python module to make handling command line arguments easy
-- [iGAN](https://github.com/junyanz/iGAN) - iGAN: Interactive Image Generation via Generative Adversarial Networks
+- [iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
 - [noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
 - [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search
