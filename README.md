@@ -16,7 +16,6 @@
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [D](#d)
-  - [Elixir](#elixir)
   - [Emacs Lisp](#emacs lisp)
   - [Go](#go)
   - [HTML](#html)
@@ -73,7 +72,7 @@
 - [ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [Cocoa-mupdf](https://github.com/dean-wong/Cocoa-mupdf) - 去掉了X11的依赖，使用GLFW的Cocoa框架实现程序，并添加功能。
 - [mupdf](https://github.com/ccxvii/mupdf) - mirrored from git://git.ghostscript.com/mupdf.git
-- [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
+- [libraries](https://github.com/gozfree/libraries) - Lightweight libraries, wrapper and extension of POSIX
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
 - [tinyre](https://github.com/fy0/tinyre) - A light fork of python's regex engine (but slow, ~3k lines).
@@ -84,7 +83,7 @@
 - [swiss](https://github.com/minoca/swiss) - Unix multitool for Windows and Minoca OS
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
-- [vis](https://github.com/martanne/vis) - a vim like text editor
+- [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [clib](https://github.com/clibs/clib) - C package manager-ish
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -124,6 +123,7 @@
 ## CSS 
 
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
+- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
@@ -141,10 +141,6 @@
 ## D 
 
 - [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler.
-
-## Elixir 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Emacs Lisp 
 
@@ -166,7 +162,7 @@
 - [sego](https://github.com/huichen/sego) - Go中文分词
 - [gostardict](https://github.com/dyatlov/gostardict) - Golang implementation of reader for StarDict format
 - [vocabulary](https://github.com/karan/vocabulary) - Golang package to get meanings, synonyms, antonyms and more for a word
-- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [ici.go](https://github.com/Flowerowl/ici.go) - A Golang implementation of the Ici(https://github.com/Flowerowl/ici)
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -184,7 +180,6 @@
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
-- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
 - [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -192,6 +187,7 @@
 ## Haskell 
 
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
@@ -311,7 +307,7 @@
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
-- [awesome-design](https://github.com/gztchan/awesome-design) - :flags: Best UI/UX Design Resources For Developer & Designer Ever :)
+- [awesome-design](https://github.com/gztchan/awesome-design) - :flags: Creative Resources for Developer and Designer :)
 - [awesome-music-for-programming](https://github.com/Yaoshicn/awesome-music-for-programming) - Awesome music for programming. 编程时的好听音乐，一起来分享你在编程时听的音乐！
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
@@ -358,6 +354,7 @@
 
 ## Python 
 
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
 - [srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
