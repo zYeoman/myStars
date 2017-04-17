@@ -14,7 +14,6 @@
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
-  - [CoffeeScript](#coffeescript)
   - [D](#d)
   - [Emacs Lisp](#emacs lisp)
   - [Go](#go)
@@ -33,6 +32,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -55,7 +55,6 @@
 
 ## Batchfile 
 
-- [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南
 - [vimx64](https://github.com/gisphm/vimx64) - using vs2015 to build win64 vim
 
 ## Brainfuck 
@@ -127,16 +126,11 @@
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
-- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [Learn-Project](https://github.com/xxr3376/Learn-Project) - 清华大学网络学堂优化工具
 - [r-ninja](https://github.com/yihui/r-ninja) - R语言忍者秘笈
 - [Jekyll-Light](https://github.com/pexcn/Jekyll-Light) - Jekyll theme. (No longer maintained, deprecated)
 - [wiki.tankywoo.com](https://github.com/tankywoo/wiki.tankywoo.com) - My personal wiki, powered by simiki ( https://github.com/tankywoo/simiki )
 - [Wiki-in-box](https://github.com/dmscode/Wiki-in-box) - 一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自己的知识碎片。欢迎各种支持
-
-## CoffeeScript 
-
-- [Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat) - This is weixin/wechat adapter for hubot.
 
 ## D 
 
@@ -187,7 +181,6 @@
 ## Haskell 
 
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
@@ -219,13 +212,11 @@
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF - the runtime asset format for WebGL, OpenGL ES, and OpenGL.
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player) - 替换斗鱼的Flash弹幕播放器
 - [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 - [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
 - [lightbox2](https://github.com/lokesh/lightbox2) - The original lightbox script, now on Github!
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [bangumi-list](https://github.com/wxt2005/bangumi-list) - 大陆版权新番播放地址聚合站 V2
 - [Proton](https://github.com/a-jie/Proton) - A particle engine for html5
 - [TinyBlog](https://github.com/YangHanqing/TinyBlog) - 极简的Markdown博客,支持评论
@@ -238,7 +229,7 @@
 - [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [parse-server](https://github.com/ParsePlatform/parse-server) - Parse-compatible API server module for Node/Express
+- [parse-server](https://github.com/parse-community/parse-server) - Parse-compatible API server module for Node/Express
 - [Qarticles](https://github.com/hilongjw/Qarticles) - A lightweight and high performance JavaScript library for creating physical particles
 - [regexgen.js](https://github.com/amobiz/regexgen.js) - RegexGen.js is a JavaScript Regular Expression Generator that helps to construct complex regular expressions.
 - [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
@@ -258,6 +249,7 @@
 - [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [image-cli](https://github.com/egoist/image-cli) - Uploading local or remote images from CLI to store in Cloud.
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [strapdown-zeta](https://github.com/chaitin/strapdown-zeta) - Instant and elegant Markdown documents in the browser, Git powered markdown wiki server, mathjax and theme support, and many more features!
@@ -355,16 +347,11 @@
 ## Python 
 
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
-- [srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
-- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
-- [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 - [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
-- [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, Navier-Stokes Equation, ...
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
@@ -374,7 +361,6 @@
 - [AniCal](https://github.com/zYeoman/AniCal) - Create Japanese anime iCalendar
 - [wechatircd](https://github.com/MaskRay/wechatircd) - ㊙用IRC客户端控制微信网页版
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [altify](https://github.com/ParhamP/altify) - Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
@@ -435,7 +421,7 @@
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rsub](https://github.com/henrikpersson/rsub) - Use rmate with Sublime Text.
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
-- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.
+- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
 - [voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [vocabulary](https://github.com/prodicus/vocabulary) - Python Module to get Meanings, Synonyms and what not for a given word
 - [pixiv-downloader](https://github.com/Volvagia356/pixiv-downloader) - Script to download artworks from pixiv
@@ -456,7 +442,7 @@
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
-- [paperwork](https://github.com/jflesch/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way (Linux/Windows)
+- [paperwork](https://github.com/openpaperwork/paperwork) - :paperclip: Using scanners and OCR to grep paper documents the easy way (Linux/Windows)
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
@@ -497,6 +483,10 @@
 - [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 
+## Scala 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+
 ## Shell 
 
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
@@ -527,6 +517,8 @@
 
 ## TypeScript 
 
+- [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player) - 替换斗鱼的Flash弹幕播放器
+- [Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [black-screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 - [MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
