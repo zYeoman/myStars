@@ -14,6 +14,7 @@
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [D](#d)
   - [Emacs Lisp](#emacs lisp)
   - [Go](#go)
@@ -25,6 +26,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Nemerle](#nemerle)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [Perl](#perl)
   - [PowerShell](#powershell)
@@ -32,7 +34,6 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -92,6 +93,7 @@
 
 ## C# # 
 
+- [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot) - a Pokemon Go Bot by PokeMobBot Team - Discord: https://discord.gg/8msqsWV | Forums:
 - [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.
@@ -131,6 +133,10 @@
 - [Jekyll-Light](https://github.com/pexcn/Jekyll-Light) - Jekyll theme. (No longer maintained, deprecated)
 - [wiki.tankywoo.com](https://github.com/tankywoo/wiki.tankywoo.com) - My personal wiki, powered by simiki ( https://github.com/tankywoo/simiki )
 - [Wiki-in-box](https://github.com/dmscode/Wiki-in-box) - 一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自己的知识碎片。欢迎各种支持
+
+## Clojure 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## D 
 
@@ -276,7 +282,7 @@
 
 ## Lua 
 
-- [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation using conditional adversarial nets
+- [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
@@ -285,8 +291,14 @@
 
 - [manpages-zh](https://github.com/lidaobing/manpages-zh) - Chinese Manual Page
 
+## Objective-C 
+
+- [leancloud-social-ios](https://github.com/leancloud/leancloud-social-ios) - LeanCloud 社交登录组件，轻松加入 QQ、微博、微信登录
+- [TO-DO](https://github.com/Seanwong933/TO-DO) - 一个无后端待办事项应用，数据用LeanCloud进行同步。
+
 ## Others 
 
+- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
@@ -346,6 +358,7 @@
 
 ## Python 
 
+- [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
@@ -437,7 +450,6 @@
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
@@ -483,21 +495,18 @@
 - [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 
-## Scala 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-
 ## Shell 
 
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
-- [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(自动生成头信息，自动补全，自动折叠，自动生成markdown目录)
+- [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(安装只需数秒)
 - [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
 - [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (71.4k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf viewer that works inside iTerm2 2.9+
 - [xscast](https://github.com/KeyboardFire/xscast) - screencasts of windows with list of keystrokes overlayed
@@ -533,6 +542,7 @@
 
 ## Vim script 
 
+- [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-paste-easy](https://github.com/roxma/vim-paste-easy) - Automatically set paste for you
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
