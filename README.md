@@ -148,6 +148,7 @@
 
 ## Go 
 
+- [commento](https://github.com/adtac/commento) - A lightweight, open source, tracking-free comment engine alternative to Disqus
 - [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -155,7 +156,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
+- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go. Written by a nerd, for nerds.
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -194,7 +195,7 @@
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [agera](https://github.com/google/agera) - Reactive Programming for Android
 - [pixiv-crawler](https://github.com/ScienJus/pixiv-crawler) - 通过网页爬虫批量下载 Pixiv 图片
@@ -214,6 +215,7 @@
 
 ## JavaScript 
 
+- [Eva](https://github.com/shuiRong/Eva) - Eva : consice, beautiful Vue.js/Express.js blog, worth a try.   (只有1M带宽/bandwidth，速度可能慢请体谅)　DEMO:
 - [duoshuo-https](https://github.com/rainwsy/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF - the runtime asset format for WebGL, OpenGL ES, and OpenGL.
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
@@ -359,6 +361,7 @@
 
 ## Python 
 
+- [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
@@ -428,7 +431,7 @@
 - [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example.
 - [colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 - [setuptools-tasks](https://github.com/pbs/setuptools-tasks) - 
-- [will](https://github.com/skoczen/will) - Will is a simple, beautiful-to-code python hipchat bot.
+- [will](https://github.com/skoczen/will) - Will is a simple, beautiful-to-code bot for hipchat, and soon a whole lot more.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
 - [deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
@@ -444,7 +447,7 @@
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python 中文版）
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [ici](https://github.com/Flowerowl/ici) - :boom:方便程序员在terminal查询生词的小工具
+- [ici](https://github.com/Flowerowl/ici) - :boom:A dictionary used by programmers in the command line
 - [youdao](https://github.com/longcw/youdao) - 基于python 的命令行下查词工具，使用有道api
 - [thu_learn](https://github.com/kehao95/thu_learn) - 清华大学网络学堂爬虫 Tsinghua Web Learning
 - [pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
