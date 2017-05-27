@@ -75,7 +75,7 @@
 - [mupdf](https://github.com/ccxvii/mupdf) - mirrored from git://git.ghostscript.com/mupdf.git
 - [libraries](https://github.com/gozfree/libraries) - Lightweight libraries, wrapper and extension of POSIX
 - [vim](https://github.com/vim/vim) - The official Vim repository
-- [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
+- [xmake](https://github.com/tboox/xmake) - :beer: A make-like build utility based on Lua
 - [tinyre](https://github.com/fy0/tinyre) - A light fork of python's regex engine (but slow, ~3k lines).
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -97,7 +97,7 @@
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot) - a Pokemon Go Bot by PokeMobBot Team - Discord: https://discord.gg/8msqsWV | Forums:
-- [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.
+- [IronAHK](https://github.com/Paris/IronAHK) - Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.
 - [Bangumi-Api](https://github.com/arition/Bangumi-Api) - Unoffical Bangumi Api based on netaba.re
 - [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - live view of earth from space
 
@@ -146,6 +146,7 @@
 
 ## Go 
 
+- [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [commento](https://github.com/adtac/commento) - A lightweight, open source, tracking-free comment engine alternative to Disqus
 - [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
@@ -173,7 +174,6 @@
 
 ## HTML 
 
-- [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 - [randomized](https://github.com/sparanoid/randomized) - Erratic colors for machines and people, powered by machine learning and artificial intelligence, just kidding.
 - [uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
@@ -215,7 +215,8 @@
 
 ## JavaScript 
 
-- [Eva](https://github.com/shuiRong/Eva) - Eva : Consice, Beautiful [Vue/Express] Blog.    只有1M带宽/bandwidth，速度可能慢请体谅)　DEMO:
+- [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
+- [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的博客项目实现 [Vue2.x/Express4.x]     DEMO:
 - [duoshuo-https](https://github.com/rainwsy/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF - the runtime asset format for WebGL, OpenGL ES, and OpenGL.
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
@@ -361,6 +362,7 @@
 
 ## Python 
 
+- [haishoku](https://github.com/LanceGin/haishoku) - a development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
@@ -507,7 +509,7 @@
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(安装只需数秒)
-- [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
+- [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -535,7 +537,7 @@
 - [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player) - 替换斗鱼的Flash弹幕播放器
 - [Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [black-screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
 
 ## Vala 
