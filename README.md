@@ -85,7 +85,7 @@
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
-- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [clib](https://github.com/clibs/clib) - C package manager-ish
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [c4](https://github.com/rswier/c4) - C in four functions
@@ -362,7 +362,8 @@
 
 ## Python 
 
-- [haishoku](https://github.com/LanceGin/haishoku) - a development tool for grabbing the dominant color or representative color palette from an image
+- [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
+- [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
