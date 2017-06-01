@@ -10,6 +10,6 @@ fi
 git diff
 read -p "Do you wish to commit and push?[Y/n]" yn
 case $yn in
-    [Nn]* ) exit;;
+    [Nn]* ) git checkout -- README.md && exit;;
     * ) git add . && git commit -m ":sparkles: Update" && git push;;
 esac
