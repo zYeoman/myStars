@@ -509,7 +509,7 @@
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
-- [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(安装只需数秒)
+- [Vim](https://github.com/BillWang139967/Vim) - 一键化打造Vim IDE环境(安装只需数秒) linux 64位环境
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
