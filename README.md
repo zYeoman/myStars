@@ -156,7 +156,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go. Written by a nerd, for nerds.
+- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go.
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -500,7 +500,6 @@
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
 - [git-journal](https://github.com/saschagrunert/git-journal) - The Git Commit Message and Changelog Generation Framework :book:
-- [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 
 ## Shell 
@@ -515,6 +514,7 @@
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+- [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (71.4k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf viewer that works inside iTerm2 2.9+
