@@ -404,7 +404,7 @@
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
-- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A list of awesome applications, softwares, tools and other materials for Linux distros.
+- [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - 🐧 A list of awesome applications, softwares, tools and other materials for Linux distros.
 - [plotly.py](https://github.com/plotly/plotly.py) - An interactive, browser-based graphing library for Python :sparkles:
 - [SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
