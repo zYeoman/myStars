@@ -16,6 +16,7 @@
   - [CSS](#css)
   - [D](#d)
   - [Emacs Lisp](#emacs lisp)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -144,6 +145,10 @@
 
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+
 ## Go 
 
 - [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
@@ -156,7 +161,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go.
+- [iris](https://github.com/kataras/iris) - [ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -192,6 +197,7 @@
 
 ## Java 
 
+- [EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
@@ -218,7 +224,7 @@
 - [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
 - [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的博客项目实现 [Vue2.x/Express4.x]     DEMO:
 - [duoshuo-https](https://github.com/rainwsy/duoshuo-https) - 多说https,让多说评论头像,表情支持https
-- [glTF](https://github.com/KhronosGroup/glTF) - glTF - the runtime asset format for WebGL, OpenGL ES, and OpenGL.
+- [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
@@ -301,6 +307,8 @@
 
 ## Others 
 
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
@@ -375,7 +383,6 @@
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, Navier-Stokes Equation, ...
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
@@ -383,7 +390,7 @@
 - [wechatircd](https://github.com/MaskRay/wechatircd) - ㊙用IRC客户端控制微信网页版
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [superset](https://github.com/airbnb/superset) - Superset is a modern, enterprise-ready business intelligence web application
+- [superset](https://github.com/airbnb/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
 - [convertdate](https://github.com/fitnr/convertdate) - Utils for converting between date formats and calculating holidays
@@ -442,7 +449,7 @@
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rsub](https://github.com/henrikpersson/rsub) - Use rmate with Sublime Text.
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
-- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on TensorFlow or Theano.
+- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
 - [voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [vocabulary](https://github.com/prodicus/vocabulary) - Python Module to get Meanings, Synonyms and what not for a given word
 - [pixiv-downloader](https://github.com/Volvagia356/pixiv-downloader) - Script to download artworks from pixiv
@@ -489,7 +496,7 @@
 - [command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM
 - [dryrun](https://github.com/cesarferreira/dryrun) - :coffee: Try the demo project of any Android Library
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
-- [cii-best-practices-badge](https://github.com/linuxfoundation/cii-best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
+- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
 - [gitgot](https://github.com/aewens/gitgot) - Git automating utility
 - [progit-cn](https://github.com/AndorChen/progit-cn) - 《Pro Git》中文版
 - [jekyll_indextank](https://github.com/pascalw/jekyll_indextank) - Jekyll + indextank = Static websites with powerful full-text search
@@ -554,9 +561,10 @@
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-paste-easy](https://github.com/roxma/vim-paste-easy) - Automatically set paste for you
+- [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
-- [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
+- [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
 - [dotvim](https://github.com/lilydjwg/dotvim) - My vim config
 - [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
@@ -570,7 +578,6 @@
 ## VimL 
 
 - [repl.vim](https://github.com/ujihisa/repl.vim) - irb, ghci, and anything else. in Vim.
-- [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
