@@ -370,6 +370,8 @@
 
 ## Python 
 
+- [NeteaseCloudMusicFlac](https://github.com/YongHaoWu/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
+- [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
@@ -381,7 +383,7 @@
 - [you-gui](https://github.com/sorrowise/you-gui) - a simple GUI internet viedo downloader
 - [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python. Mandelbrot Set, Domino Shuffling Algorithm, Wilson's Uniform Spanning Tree Algorithm, Reaction-Diffusion, Penrose Tilings, 120-Cell, Newton's Fractal, The E8 Root System, The Modular Group, Navier-Stokes Equation, ...
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
 - [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
@@ -390,7 +392,7 @@
 - [wechatircd](https://github.com/MaskRay/wechatircd) - ㊙用IRC客户端控制微信网页版
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [superset](https://github.com/airbnb/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [superset](https://github.com/ApacheInfra/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
 - [convertdate](https://github.com/fitnr/convertdate) - Utils for converting between date formats and calculating holidays
@@ -460,7 +462,7 @@
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [ici](https://github.com/Flowerowl/ici) - :boom:A dictionary used by programmers in the command line
 - [youdao](https://github.com/longcw/youdao) - 基于python 的命令行下查词工具，使用有道api
-- [thu_learn](https://github.com/kehao95/thu_learn) - 清华大学网络学堂爬虫 Tsinghua Web Learning
+- [thu_learn](https://github.com/kehao95/thu_learn) - 清华大学网络学堂爬虫 Tsinghua Web Learning (deprecated)
 - [pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
