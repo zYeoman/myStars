@@ -181,6 +181,7 @@
 
 ## HTML 
 
+- [Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 - [randomized](https://github.com/sparanoid/randomized) - Erratic colors for machines and people, powered by machine learning and artificial intelligence, just kidding.
 - [uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
@@ -260,6 +261,7 @@
 - [PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具
 - [danmu-client](https://github.com/zsxsoft/danmu-client) - A cross-platforms danmaku client that supports transparency which based on canvas + WebSocket. 多用跨平台透明弹幕客户端，支持图文弹幕，基于canvas + WebSocket。
 - [WeixinBot](https://github.com/coderafei/WeixinBot) - Nodejs 封装网页版微信的接口，可编程控制微信消息
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
@@ -374,6 +376,8 @@
 
 ## Python 
 
+- [asciidots](https://github.com/aaronduino/asciidots) - AsciiDots - The result of combining ascii art, electrical engineering, and programming
+- [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
 - [NeteaseCloudMusicFlac](https://github.com/YongHaoWu/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
 - [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
@@ -484,7 +488,7 @@
 - [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code.
 - [gitless](https://github.com/sdg-mit/gitless) - A version control system built on top of Git
 - [usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
-- [ConvertChineseCharacters](https://github.com/stormtea123/ConvertChineseCharacters) - Plugin for Sublime text 3 for convert chinese characters.
+- [ConvertChineseCharacters](https://github.com/thunkli/ConvertChineseCharacters) - Plugin for Sublime text 3 for convert chinese characters.
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
@@ -505,7 +509,6 @@
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
 - [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
 - [gitgot](https://github.com/aewens/gitgot) - Git automating utility
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [progit-cn](https://github.com/AndorChen/progit-cn) - 《Pro Git》中文版
 - [jekyll_indextank](https://github.com/pascalw/jekyll_indextank) - Jekyll + indextank = Static websites with powerful full-text search
 - [liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
@@ -570,6 +573,7 @@
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-paste-easy](https://github.com/roxma/vim-paste-easy) - Automatically set paste for you
 - [vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
+- [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
@@ -586,7 +590,6 @@
 ## VimL 
 
 - [repl.vim](https://github.com/ujihisa/repl.vim) - irb, ghci, and anything else. in Vim.
-- [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [pyrepl.vim](https://github.com/Bogdanp/pyrepl.vim) - VIM plugin that provides a way to run a Python REPL inside a VIM buffer.
