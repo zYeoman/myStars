@@ -69,7 +69,6 @@
 - [byakuren](https://github.com/XadillaX/byakuren) - 🎭 A theme color extracting library implemented by C.
 - [LCUI](https://github.com/lc-soft/LCUI) - A simple GUI library, it is written in C, support XML and CSS.
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.
-- [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [Cocoa-mupdf](https://github.com/dean-wong/Cocoa-mupdf) - 去掉了X11的依赖，使用GLFW的Cocoa框架实现程序，并添加功能。
@@ -104,8 +103,8 @@
 
 ## C++ 
 
+- [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
 - [cmake-templates](https://github.com/district10/cmake-templates) - Some CMake Templates. Qt, Boost, OpenCV, C++11, etc
-- [networkmonitor](https://github.com/344717871/networkmonitor) - network monitor tools
 - [mactype](https://github.com/snowie2000/mactype) - A better font rasterizer for Windows.
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -342,7 +341,7 @@
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - 2015 年在微信热传的 100+ 篇经典技术文章
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -508,7 +507,6 @@
 - [dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
 - [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
-- [gitgot](https://github.com/aewens/gitgot) - Git automating utility
 - [progit-cn](https://github.com/AndorChen/progit-cn) - 《Pro Git》中文版
 - [jekyll_indextank](https://github.com/pascalw/jekyll_indextank) - Jekyll + indextank = Static websites with powerful full-text search
 - [liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
@@ -582,7 +580,7 @@
 - [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
