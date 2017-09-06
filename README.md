@@ -64,6 +64,8 @@
 
 ## C 
 
+- [Acrylic-DNS-Proxy-GUI](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI) - Acrylic DNS Proxy 的中文GUI版本
+- [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - tinyhttpd 是一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。
 - [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension of C that adds bounds checking to C.  This repo contains the specification for the extension, test code, and samples.
 - [byakuren](https://github.com/XadillaX/byakuren) - 🎭 A theme color extracting library implemented by C.
@@ -75,7 +77,7 @@
 - [mupdf](https://github.com/ccxvii/mupdf) - mirrored from git://git.ghostscript.com/mupdf.git
 - [libraries](https://github.com/gozfree/libraries) - Lightweight libraries, wrapper and extension of POSIX
 - [vim](https://github.com/vim/vim) - The official Vim repository
-- [xmake](https://github.com/tboox/xmake) - :beer: A make-like build utility based on Lua
+- [xmake](https://github.com/tboox/xmake) - :beer: A cross-platform build utility based on Lua
 - [tinyre](https://github.com/fy0/tinyre) - A light fork of python's regex engine (but slow, ~3k lines).
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -101,6 +103,7 @@
 
 ## C++ 
 
+- [CPPHelper](https://github.com/Chuyu-Team/CPPHelper) - C++基础辅助类库，比如异步进行-Thread，安全句柄-CHandle，资源守卫-Guard，XML解析-rapidxml，以及其他注册表、文件基础操作。用于更加高效、安全的进行C++开发。温馨提示：至少需要支持C++0x标准的编译器。
 - [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
 - [cmake-templates](https://github.com/district10/cmake-templates) - Some CMake Templates. Qt, Boost, OpenCV, C++11, etc
 - [mactype](https://github.com/snowie2000/mactype) - A better font rasterizer for Windows.
@@ -141,13 +144,13 @@
 
 ## Erlang 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Go 
 
 - [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [commento](https://github.com/adtac/commento) - A lightweight, open source, tracking-free comment engine alternative to Disqus
+- [commento](https://github.com/adtac/commento) - A lightweight, open source, tracking-free comment engine alternative to Disqus.
 - [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -155,7 +158,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://docs.iris-go.com
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -190,6 +193,7 @@
 
 ## Java 
 
+- [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - A tool which has the ability to download the online comics and novels from some china websites.
 - [Conquer](https://github.com/hanks-zyh/Conquer) - A todo list app base Material Design
 - [EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -255,7 +259,7 @@
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [youdaodict](https://github.com/HalfdogStudio/youdaodict) - 一个简单的基于有道在线翻译的GreaseMonkey屏幕取词脚本，在哪个网站都能用:)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 - [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
@@ -358,6 +362,11 @@
 
 ## Python 
 
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets.
+- [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
+- [roamer](https://github.com/abaldwin88/roamer) - The Plain Text File Manager
+- [background](https://github.com/kennethreitz/background) - Runs things in the background.
+- [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible Markdown parser in pure Python.
 - [asciidots](https://github.com/aaronduino/asciidots) - AsciiDots - The result of combining ascii art, electrical engineering, and programming
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
@@ -367,7 +376,7 @@
 - [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -403,12 +412,12 @@
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
-- [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - 🐧 A list of awesome applications, softwares, tools and other materials for Linux distros.
+- [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - 🐧 A list of awesome applications, software, tools and other materials for Linux distros.
 - [plotly.py](https://github.com/plotly/plotly.py) - An interactive, browser-based graphing library for Python :sparkles:
 - [SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module for Python
+- [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [minibar](https://github.com/canassa/minibar) - Progress bar for python
 - [SolarSystemOrbiter](https://github.com/madoee/SolarSystemOrbiter) - Plot orbits of our planets. Calculate Hohmann Transfer Orbits between them and extract movies of the motions in the Solar System
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
