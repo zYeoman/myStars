@@ -25,13 +25,13 @@
   - [Jupyter Notebook](#jupyter notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-  - [Nemerle](#nemerle)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Protocol Buffer](#protocol buffer)
   - [Python](#python)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -64,14 +64,12 @@
 
 ## C 
 
-- [Acrylic-DNS-Proxy-GUI](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI) - Acrylic DNS Proxy 的中文GUI版本
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - tinyhttpd 是一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。
 - [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension of C that adds bounds checking to C.  This repo contains the specification for the extension, test code, and samples.
 - [byakuren](https://github.com/XadillaX/byakuren) - 🎭 A theme color extracting library implemented by C.
 - [LCUI](https://github.com/lc-soft/LCUI) - A simple GUI library, it is written in C, support XML and CSS.
-- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
+- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [Cocoa-mupdf](https://github.com/dean-wong/Cocoa-mupdf) - 去掉了X11的依赖，使用GLFW的Cocoa框架实现程序，并添加功能。
 - [mupdf](https://github.com/ccxvii/mupdf) - mirrored from git://git.ghostscript.com/mupdf.git
@@ -95,6 +93,7 @@
 
 ## C# # 
 
+- [QuickLook](https://github.com/xupefei/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot) - a Pokemon Go Bot by PokeMobBot Team - Discord: https://discord.gg/8msqsWV | Forums:
@@ -104,7 +103,8 @@
 ## C++ 
 
 - [CPPHelper](https://github.com/Chuyu-Team/CPPHelper) - C++基础辅助类库，比如异步进行-Thread，安全句柄-CHandle，资源守卫-Guard，XML解析-rapidxml，以及其他注册表、文件基础操作。用于更加高效、安全的进行C++开发。温馨提示：至少需要支持C++0x标准的编译器。
-- [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
+- [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [cmake-templates](https://github.com/district10/cmake-templates) - Some CMake Templates. Qt, Boost, OpenCV, C++11, etc
 - [mactype](https://github.com/snowie2000/mactype) - A better font rasterizer for Windows.
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
@@ -128,7 +128,7 @@
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
-- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 30 kinds of fantastic fonts!
+- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 32 kinds of fantastic fonts!
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 34 patched fonts (77k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -136,7 +136,7 @@
 
 ## D 
 
-- [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler.
+- [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D Compiler.
 
 ## Emacs Lisp 
 
@@ -148,9 +148,10 @@
 
 ## Go 
 
+- [goflyway](https://github.com/coyove/goflyway) - HTTP tunnel in Go
 - [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [commento](https://github.com/adtac/commento) - A lightweight, open source, tracking-free comment engine alternative to Disqus.
+- [commento](https://github.com/adtac/commento) - A lightweight, open source, privacy-focussed comment engine alternative to Disqus.
 - [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -175,7 +176,9 @@
 ## HTML 
 
 - [Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
+- [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
 - [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
+- [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [randomized](https://github.com/sparanoid/randomized) - Erratic colors for machines and people, powered by machine learning and artificial intelligence, just kidding.
 - [uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
@@ -193,11 +196,13 @@
 
 ## Java 
 
+- [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
+- [KaoYanDanci](https://github.com/HIjack2015/KaoYanDanci) - 考研单词app源码.希望对你有帮助
 - [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - A tool which has the ability to download the online comics and novels from some china websites.
 - [Conquer](https://github.com/hanks-zyh/Conquer) - A todo list app base Material Design
 - [EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
+- [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
@@ -217,14 +222,13 @@
 
 ## JavaScript 
 
+- [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 - [pasition](https://github.com/AlloyTeam/pasition) - Path Transition with little JS code, render to anywhere - 轻量级Path过渡库，渲染到任何地方
-- [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
-- [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的完整博客项目 [前后端]     DEMO:
+- [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])    DEMO:
 - [duoshuo-https](https://github.com/cntaoyu/duoshuo-https) - 多说https,让多说评论头像,表情支持https
-- [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
@@ -278,7 +282,7 @@
 
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
 - [edward](https://github.com/blei-lab/edward) - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 
 ## Kotlin 
 
@@ -291,10 +295,6 @@
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 
-## Nemerle 
-
-- [manpages-zh](https://github.com/lidaobing/manpages-zh) - Chinese Manual Page
-
 ## Objective-C 
 
 - [leancloud-social-ios](https://github.com/leancloud/leancloud-social-ios) - LeanCloud 社交登录组件，轻松加入 QQ、微博、微信登录
@@ -302,6 +302,9 @@
 
 ## Others 
 
+- [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+- [Acrylic-DNS-Proxy-GUI](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI) - Acrylic DNS Proxy GUI
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -339,7 +342,7 @@
 - [Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
 - [builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up
 - [awesome-awesome-awesome](https://github.com/geekan/awesome-awesome-awesome) - An awesome-awesome list.
-- [w3school](https://github.com/wizardforcel/w3school) - :books: W3School 教程整理
+- [w3school](https://github.com/it-ebooks/w3school) - :books: W3School 教程整理
 
 ## Perl 
 
@@ -362,6 +365,8 @@
 
 ## Python 
 
+- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [flexx](https://github.com/zoofIO/flexx) - Write desktop and web apps in pure Python
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets.
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [roamer](https://github.com/abaldwin88/roamer) - The Plain Text File Manager
@@ -375,7 +380,7 @@
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典，命令行查询单词，使用柯林斯词典，存储至本地
-- [timestrap](https://github.com/overshard/timestrap) - Time tracking and invoicing you can host anywhere. Full export support in multiple formats and easily extensible.
+- [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
@@ -437,7 +442,7 @@
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
 - [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example.
@@ -485,6 +490,10 @@
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 
+## Roff 
+
+- [manpages-zh](https://github.com/lidaobing/manpages-zh) - Chinese Manual Page
+
 ## Ruby 
 
 - [command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM
@@ -502,6 +511,7 @@
 
 ## Shell 
 
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
@@ -514,7 +524,7 @@
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf viewer that works inside iTerm2 2.9+
+- [termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+
 - [xscast](https://github.com/KeyboardFire/xscast) - screencasts of windows with list of keystrokes overlayed
 - [githug](https://github.com/Gazler/githug) - Git your game on!
 - [droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
@@ -548,6 +558,8 @@
 
 ## Vim script 
 
+- [oni](https://github.com/bryphe/oni) - Oni: An IDE powered by Neovim
+- [repl.vim](https://github.com/ujihisa/repl.vim) - irb, ghci, and anything else. in Vim.
 - [spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-paste-easy](https://github.com/roxma/vim-paste-easy) - Automatically set paste for you
@@ -567,7 +579,6 @@
 
 ## VimL 
 
-- [repl.vim](https://github.com/ujihisa/repl.vim) - irb, ghci, and anything else. in Vim.
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [pyrepl.vim](https://github.com/Bogdanp/pyrepl.vim) - VIM plugin that provides a way to run a Python REPL inside a VIM buffer.
@@ -575,6 +586,7 @@
 
 ## Vue 
 
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 
 
