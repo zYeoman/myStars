@@ -91,6 +91,7 @@
 
 ## C# # 
 
+- [NetSpeedMonitor](https://github.com/hanyizhao/NetSpeedMonitor) - This is a net speed monitor just like 360 for windows user.
 - [QuickLook](https://github.com/xupefei/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
@@ -146,19 +147,19 @@
 ## Go 
 
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
-- [goflyway](https://github.com/coyove/goflyway) - HTTP tunnel in Go
+- [goflyway](https://github.com/coyove/goflyway) - Transferring data via remote server
 - [hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [commento](https://github.com/adtac/commento) - A privacy-focused Disqus alternative
+- [commento](https://github.com/adtac/commento) - A privacy-focused and bloat-free Disqus alternative
 - [manta](https://github.com/dotabuff/manta) - Dota 2 Source 2 Replay Parser
-- [gago](https://github.com/MaxHalford/gago) - :rabbit: Golang genetic algorithm library
+- [gago](https://github.com/MaxHalford/gago) - :rabbit: Genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lexvec](https://github.com/alexandres/lexvec) - This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks
 - [hub](https://github.com/github/hub) - hub helps you win at git.
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go on (THIS) Earth
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth https://github.com/kataras/iris/tree/master/_examples
 - [pdf](https://github.com/rsc/pdf) - PDF reader
 - [gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -174,6 +175,7 @@
 
 ## HTML 
 
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) - A curated collection of useful CSS snippets.
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
 - [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
@@ -223,6 +225,8 @@
 
 ## JavaScript 
 
+- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples) - Chrome Apps
 - [KaTeX](https://github.com/Khan/KaTeX) - Fast math typesetting for the web.
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [jekyll-editor](https://github.com/Simpleyyt/jekyll-editor) - A markdown editor to write jekyll post.
@@ -241,7 +245,7 @@
 - [duoshuo-https](https://github.com/cntaoyu/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [streama](https://github.com/dularion/streama) - It's like Netflix, but self-hosted! http://dularion.github.io/streama/
+- [streama](https://github.com/streamaserver/streama) - It's like Netflix, but self-hosted!
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 - [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
 - [lightbox2](https://github.com/lokesh/lightbox2) - The original lightbox script, now on Github!
@@ -291,6 +295,7 @@
 
 ## Jupyter Notebook 
 
+- [ipynb_playground](https://github.com/julienr/ipynb_playground) - Various ipython notebooks
 - [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
@@ -314,6 +319,8 @@
 
 ## Others 
 
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
+- [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [coc_adv_index](https://github.com/Bluebear171/coc_adv_index) - Collection list for克苏鲁的呼唤(Call of Cthulhu)
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
@@ -347,7 +354,7 @@
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. Propose NEW data ☛☛☛PR☛☛☛
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - 2015 年在微信热传的 100+ 篇经典技术文章
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -375,6 +382,7 @@
 
 ## Python 
 
+- [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
 - [FeelUOwn](https://github.com/cosven/FeelUOwn) - trying to be a hackable music player
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
 - [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Deep neural networks for voice conversion (voice style transfer) in Tensorflow
@@ -528,16 +536,18 @@
 
 ## Shell 
 
+- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
-- [Vim](https://github.com/BillWang139967/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】
+- [Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -588,7 +598,6 @@
 - [dotvim](https://github.com/lilydjwg/dotvim) - My vim config
 - [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
-- [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
