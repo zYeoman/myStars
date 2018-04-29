@@ -19,6 +19,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Hy](#hy)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
@@ -196,6 +197,10 @@
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## Hy 
+
+- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
+
 ## Java 
 
 - [anychat](https://github.com/dianbaer/anychat) - anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。
@@ -216,7 +221,7 @@
 - [FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - 好玩的下拉刷新控件，让我们一起来回味童年
 - [LeeCo](https://github.com/Nightonke/LeeCo) - LeeCo is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.
 - [Meizhi](https://github.com/drakeet/Meizhi) - gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project: https://github.com/drakeet/rebase-android)
-- [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - Nice loading animations for Android
+- [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - DEPRECATED
 - [jianshi](https://github.com/wingjay/jianshi) - A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style.
 - [Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary) - 
 - [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
@@ -242,7 +247,7 @@
 - [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 - [pasition](https://github.com/AlloyTeam/pasition) - Path Transition with little JS code, render to anywhere - 轻量级Path过渡库，渲染到任何地方
 - [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])    DEMO:
-- [duoshuo-https](https://github.com/cntaoyu/duoshuo-https) - 多说https,让多说评论头像,表情支持https
+- [duoshuo-https](https://github.com/chaclee/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [streama](https://github.com/streamaserver/streama) - It's like Netflix, but self-hosted!
@@ -319,6 +324,8 @@
 
 ## Others 
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2018 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2018
 - [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [coc_adv_index](https://github.com/Bluebear171/coc_adv_index) - Collection list for克苏鲁的呼唤(Call of Cthulhu)
@@ -382,6 +389,8 @@
 
 ## Python 
 
+- [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
+- [MUNIT](https://github.com/NVlabs/MUNIT) - Multimodal Unsupervised Image-to-Image Translation
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
 - [FeelUOwn](https://github.com/cosven/FeelUOwn) - trying to be a hackable music player
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
@@ -413,7 +422,6 @@
 - [samplemod](https://github.com/kennethreitz/samplemod) - Sample module for Python-Guide.org.
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images and animate interesting algorithms in mathematics with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past,  4D polytopes, Mobius transformations, hyperbolic tilings. www.pywonderland.com.
 - [pymterm](https://github.com/stonewell/pymterm) - A multiple tab terminal emulator implemented in python
-- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [AniCal](https://github.com/zYeoman/AniCal) - Create Japanese anime iCalendar
@@ -542,7 +550,7 @@
 - [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
-- [Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】
+- [Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】 Vim7.X 可以安装旧版本
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
