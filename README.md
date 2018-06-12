@@ -158,7 +158,7 @@
 - [goflyway](https://github.com/coyove/goflyway) - Transferring data via remote server
 - [hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [commento](https://github.com/adtac/commento) - A privacy-focused and bloat-free Disqus alternative
+- [commento](https://github.com/adtac/commento) - An open source, privacy focused discussion platform.
 - [manta](https://github.com/dotabuff/manta) - Dota 2 Source 2 Replay Parser
 - [gago](https://github.com/MaxHalford/gago) - 🍀 Genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -346,11 +346,11 @@
 - [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2018 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2018
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [coc_adv_index](https://github.com/Bluebear171/coc_adv_index) - Collection list for克苏鲁的呼唤(Call of Cthulhu)
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - (June 2018) The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -421,7 +421,7 @@
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [roamer](https://github.com/abaldwin88/roamer) - The Plain Text File Manager
 - [background](https://github.com/kennethreitz/background) - Runs things in the background.
-- [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible Markdown parser in pure Python.
+- [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [asciidots](https://github.com/aaronduino/asciidots) - The combinination of ascii art, electrical engineering, and programming.
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [NeteaseCloudMusicFlac](https://github.com/YongHaoWu/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
