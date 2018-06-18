@@ -174,7 +174,7 @@
 - [sego](https://github.com/huichen/sego) - Go中文分词
 - [gostardict](https://github.com/dyatlov/gostardict) - Golang implementation of reader for StarDict format
 - [vocabulary](https://github.com/karan/vocabulary) - Golang package to get meanings, synonyms, antonyms and more for a word
-- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [ici.go](https://github.com/Flowerowl/ici.go) - A Golang implementation of the Ici(https://github.com/Flowerowl/ici)
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -346,7 +346,7 @@
 - [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2018 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2018
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :calendar: 准备秋招学习笔记
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [coc_adv_index](https://github.com/Bluebear171/coc_adv_index) - Collection list for克苏鲁的呼唤(Call of Cthulhu)
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
@@ -524,7 +524,7 @@
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
-- [paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows)
+- [paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -576,7 +576,7 @@
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [dotfiles](https://github.com/tankywoo/dotfiles) - Dotfiles
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
+- [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
 - [xscast](https://github.com/KeyboardFire/xscast) - screencasts of windows with list of keystrokes overlayed
