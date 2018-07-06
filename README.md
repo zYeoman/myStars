@@ -64,6 +64,7 @@
 
 ## C 
 
+- [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [gvimfullscreen](https://github.com/xqin/gvimfullscreen) - Put gvim in full screen on Windows
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
@@ -105,6 +106,8 @@
 
 ## C++ 
 
+- [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting of C, C++, ObjC
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application that knows programmers and Markdown better.
 - [CPPHelper](https://github.com/Chuyu-Team/CPPHelper) - C++基础辅助类库，比如异步进行-Thread，安全句柄-CHandle，资源守卫-Guard，XML解析-rapidxml，以及其他注册表、文件基础操作。用于更加高效、安全的进行C++开发。温馨提示：至少需要支持C++0x标准的编译器。
 - [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
@@ -128,6 +131,7 @@
 
 ## CSS 
 
+- [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
 - [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for personal sites, blogs, and portfolios. Two-columns and extremely flexible.
@@ -152,14 +156,16 @@
 
 ## Go 
 
-- [wtf](https://github.com/senorprogrammer/wtf) - A personal information dashboard for your terminal.
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
+- [wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 - [goflyway](https://github.com/coyove/goflyway) - Transferring data via remote server
 - [hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [commento](https://github.com/adtac/commento) - An open source, privacy focused discussion platform.
-- [manta](https://github.com/dotabuff/manta) - Dota 2 Source 2 Replay Parser
+- [manta](https://github.com/dotabuff/manta) - Dotabuff's Dota 2 Source 2 Replay Parser in Go
 - [gago](https://github.com/MaxHalford/gago) - 🍀 Genetic algorithm library
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -193,13 +199,14 @@
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
 - [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 
 ## Haskell 
 
+- [cxxdraft-htmlgen](https://github.com/Eelis/cxxdraft-htmlgen) - Generates http://eel.is/c++draft
 - [glance](https://github.com/rgleichman/glance) - A visual Haskell
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
@@ -256,7 +263,7 @@
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
-- [pasition](https://github.com/AlloyTeam/pasition) - Path Transition with little JS code, render to anywhere - 轻量级Path过渡库，渲染到任何地方
+- [pasition](https://github.com/AlloyTeam/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
 - [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
 - [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])    DEMO:
 - [duoshuo-https](https://github.com/chaclee/duoshuo-https) - 多说https,让多说评论头像,表情支持https
@@ -342,6 +349,8 @@
 
 ## Others 
 
+- [chromium](https://github.com/henrypp/chromium) - Chromium builds with codecs
+- [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
 - [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -358,7 +367,7 @@
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
-- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to anime, comics, games, light novel, vocaloid
+- [awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
@@ -408,6 +417,8 @@
 
 ## Python 
 
+- [faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
+- [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [MUNIT](https://github.com/NVlabs/MUNIT) - Multimodal Unsupervised Image-to-Image Translation
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
@@ -490,7 +501,7 @@
 - [colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
-- [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
+- [toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
@@ -547,6 +558,7 @@
 
 ## Ruby 
 
+- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM
 - [dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
@@ -563,6 +575,7 @@
 
 ## Shell 
 
+- [cppwp](https://github.com/timsong-cpp/cppwp) - HTML version of the current C++ working paper
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
@@ -589,6 +602,7 @@
 
 ## TeX 
 
+- [draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [awk](https://github.com/wuzhouhui/awk) - :book:  The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
 - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统TensorFlow官方文档中文版
