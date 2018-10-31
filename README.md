@@ -26,6 +26,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [NetLogo](#netlogo)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [Perl](#perl)
@@ -114,6 +115,7 @@
 
 ## C++ 
 
+- [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [oatpp](https://github.com/oatpp/oatpp) - Light, zero-dependency framework. Create bleedingly-fast web-services.  Organic. Pure C++
 - [cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -125,7 +127,7 @@
 - [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [cmake-templates](https://github.com/district10/cmake-templates) - Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc 一些栗子
-- [mactype](https://github.com/snowie2000/mactype) - A better font rasterizer for Windows.
+- [mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting
@@ -174,6 +176,8 @@
 
 ## Go 
 
+- [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+- [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang
 - [walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -208,6 +212,7 @@
 
 ## HTML 
 
+- [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
@@ -232,6 +237,7 @@
 ## Java 
 
 - [logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
+- [AndroidDemo](https://github.com/DuckDeck/AndroidDemo) - 
 - [anychat](https://github.com/dianbaer/anychat) - anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。
 - [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
 - [KaoYanDanci](https://github.com/HIjack2015/KaoYanDanci) - 考研单词app源码.希望对你有帮助
@@ -279,7 +285,7 @@
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
-- [pasition](https://github.com/AlloyTeam/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
+- [pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
 - [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
 - [Eva](https://github.com/shuiRong/Eva) - Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])    DEMO:
 - [duoshuo-https](https://github.com/chaclee/duoshuo-https) - 多说https,让多说评论头像,表情支持https
@@ -311,9 +317,9 @@
 - [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native) - Jiandan App client implemented using React Native for Android.
 - [dhufufu](https://github.com/jabbany/dhufufu) - Dhufufu~ API Database for ACG sites & Related Services 有关各种ACG网站的API啦神马的
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
-- [PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具
+- [PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，可高度自定义重命名，发送到本地或远程Aria2下载。
 - [danmu-client](https://github.com/zsxsoft/danmu-client) - A cross-platforms danmaku client that supports transparency which based on canvas + WebSocket. 多用跨平台透明弹幕客户端，支持图文弹幕，基于canvas + WebSocket。
-- [WeixinBot](https://github.com/coderafei/WeixinBot) - Nodejs 封装网页版微信的接口，可编程控制微信消息
+- [wechat-bot](https://github.com/coderafei/wechat-bot) - Nodejs 封装网页版微信的接口，可编程控制微信消息
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
@@ -336,6 +342,7 @@
 
 ## Jupyter Notebook 
 
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
 - [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 - [ipynb_playground](https://github.com/julienr/ipynb_playground) - Various ipython notebooks
 - [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
@@ -345,7 +352,6 @@
 
 ## Kotlin 
 
-- [AndroidDemo](https://github.com/DuckDeck/AndroidDemo) - 
 - [lattekit](https://github.com/maannajjar/lattekit) - Android framework for building UI quickly in Kotlin, inspired by React.js
 
 ## Lua 
@@ -358,6 +364,10 @@
 ## Makefile 
 
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
+
+## NetLogo 
+
+- [TankLogo](https://github.com/huangyz0918/TankLogo) - 1v1 tank war model built by NetLogo :collision:
 
 ## Objective-C 
 
@@ -441,7 +451,9 @@
 
 ## Python 
 
-- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+- [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
+- [sotawhat](https://github.com/chiphuyen/sotawhat) - Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.
+- [remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [notifiers](https://github.com/notifiers/notifiers) - The easy way to send notifications
@@ -521,7 +533,7 @@
 - [realms-wiki](https://github.com/scragg0x/realms-wiki) - Git based wiki inspired by Gollum
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [Packages](https://github.com/sublimehq/Packages) - 
-- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
@@ -684,7 +696,7 @@
 
 ## Vue 
 
-- [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用github gist api 无需任何服务器 搭建一个可动态发布文章的个人博客
+- [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 不用服务器 搭建一个可动态发布文章的博客
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 
