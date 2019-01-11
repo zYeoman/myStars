@@ -51,7 +51,7 @@
 
 ## AutoHotkey 
 
-- [OneQuick](https://github.com/XUJINKAI/OneQuick) - windows快捷键工具（屏幕边缘操作, 剪贴板增强）.  Autohotkey tool (screen border operation, clipboard manager).
+- [OneQuick.AHK-legacy](https://github.com/OneQuick/OneQuick.AHK-legacy) - windows快捷键工具（屏幕边缘操作, 剪贴板增强）.  Autohotkey tool (screen border operation, clipboard manager).
 - [runz](https://github.com/goreliu/runz) - RunZ，专业的快速启动工具
 
 ## Batchfile 
@@ -242,7 +242,7 @@
 - [homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
 - [hanabi](https://github.com/egoist/hanabi) - :boom: Highlight any code, in a colorful way. (seriously 700 bytes)
 - [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
-- [all-contributors](https://github.com/kentcdodds/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [dort](https://github.com/littlewin-wang/dort) - File sharing through web with wonderful alternation.
 - [tui.calendar](https://github.com/nhnent/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
@@ -255,7 +255,7 @@
 - [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next) - Elegant theme for Jekyll.
 - [anyupload](https://github.com/dianbaer/anyupload) - anyupload是一个极度纯净的上传插件，通过简单调整就可以融入到任何项目，支持多文件上传、上传速率动态控制、真实进度监控kb/s、分块生成MD5、分块上传、MD5校验秒传、暂停、取消等。仅需1000行代码
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.js best practices list (January 2019)
 - [hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
@@ -275,7 +275,7 @@
 - [bangumi-list](https://github.com/wxt2005/bangumi-list) - 大陆版权新番播放地址聚合站 V2
 - [Proton](https://github.com/a-jie/Proton) - A particle engine for javascript
 - [TinyBlog](https://github.com/YangHanqing/TinyBlog) - 极简的Markdown博客,支持评论
-- [anime](https://github.com/juliangarnier/anime) - JavaScript Animation Engine
+- [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport. :eyes:
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -488,7 +488,7 @@
 - [colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
-- [toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python
+- [toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
@@ -545,7 +545,6 @@
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) - Yltra Flat icon for Linux Operating Systems
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
