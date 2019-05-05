@@ -60,6 +60,7 @@
 
 ## C 
 
+- [deepin-anything](https://github.com/linuxdeepin/deepin-anything) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-anything
 - [Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 - [SimpleKernel](https://github.com/MRNIU/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [LISP](https://github.com/krig/LISP) - My attempt at implementing the original LISP paper while learning lisp. Nothing special, mostly posted as a homage to McCarthy.
@@ -72,6 +73,7 @@
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [gvimfullscreen](https://github.com/xqin/gvimfullscreen) - Put gvim in full screen on Windows
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [AndroidDemo](https://github.com/DuckDeck/AndroidDemo) - 
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
@@ -100,7 +102,6 @@
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot) - a Pokemon Go Bot by PokeMobBot Team - Discord: https://discord.gg/8msqsWV | Forums:
-- [IronAHK](https://github.com/Paris/IronAHK) - Cross platform .NET rewrite of the popular AutoHotkey scripting language for desktop automation.
 - [Packages](https://github.com/sublimehq/Packages) - 
 - [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - live view of earth from space
 
@@ -225,7 +226,7 @@
 - [android-calendar-view](https://github.com/myjoybar/android-calendar-view) - 显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。Easy to use, powerful, easy to expand the android calendar view library.
 - [Musicoco](https://github.com/DuanJiaNing/Musicoco) - 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 - [logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
-- [AndroidDemo](https://github.com/DuckDeck/AndroidDemo) - 
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
 - [anychat](https://github.com/dianbaer/anychat) - anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。
 - [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
 - [KaoYanDanci](https://github.com/HIjack2015/KaoYanDanci) - 考研单词app源码.希望对你有帮助
@@ -254,7 +255,7 @@
 - [typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
 - [chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [the-super-tiny-compiler-cn](https://github.com/starkwang/the-super-tiny-compiler-cn) - :snowman: 可能是最小的编译器
 - [vs](https://github.com/anvaka/vs) - Visualization of Google's autocomplete
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -302,7 +303,7 @@
 - [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [parse-server](https://github.com/parse-community/parse-server) - Parse-compatible API server module for Node/Express
+- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [Qarticles](https://github.com/hilongjw/Qarticles) - A lightweight and high performance JavaScript library for creating physical particles
 - [regexgen.js](https://github.com/amobiz/regexgen.js) - RegexGen.js is a JavaScript Regular Expression Generator that helps to construct complex regular expressions.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
@@ -352,7 +353,6 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [InterviewMap](https://github.com/KieSun/InterviewMap) - 该项目是 fork 的，如果你觉得不错，可以前往主仓库支持一下。
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- [python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of *nix Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
@@ -364,7 +364,6 @@
 - [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2019 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2019
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [coc_adv_index](https://github.com/Bluebear171/coc_adv_index) - Collection list for克苏鲁的呼唤(Call of Cthulhu)
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
@@ -415,6 +414,7 @@
 
 ## Python 
 
+- [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [ant_nest](https://github.com/strongbugman/ant_nest) - Simple, clear and fast Web Crawler framework build on python3.6+, powered by asyncio.
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
@@ -452,8 +452,7 @@
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典 命令行查询 柯林斯词典 单词管理 本地保存
-- [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 一个分享 GitHub 上有趣、入门级的开源项目。让你找到编程的乐趣，欢迎推荐、自荐项目「每月28号更新」
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -518,7 +517,7 @@
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
 - [deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
-- [vocabulary](https://github.com/tasdikrahman/vocabulary) - Python Module to get Meanings, Synonyms and what not for a given word
+- [vocabulary](https://github.com/tasdikrahman/vocabulary) - [Not Maintained anymore] Python Module to get Meanings, Synonyms and what not for a given word
 - [pixiv-downloader](https://github.com/Volvagia356/pixiv-downloader) - Script to download artworks from pixiv
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
