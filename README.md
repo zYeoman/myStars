@@ -28,6 +28,7 @@
   - [NetLogo](#netlogo)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -60,7 +61,7 @@
 
 ## C 
 
-- [deepin-anything](https://github.com/linuxdeepin/deepin-anything) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-anything
+- [deepin-anything](https://github.com/linuxdeepin/deepin-anything) - 
 - [Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 - [SimpleKernel](https://github.com/MRNIU/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [LISP](https://github.com/krig/LISP) - My attempt at implementing the original LISP paper while learning lisp. Nothing special, mostly posted as a homage to McCarthy.
@@ -76,7 +77,7 @@
 - [AndroidDemo](https://github.com/DuckDeck/AndroidDemo) - 
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
-- [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
+- [checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [byakuren](https://github.com/XadillaX/byakuren) - 🎭 A theme color extracting library implemented by C.
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
@@ -107,6 +108,9 @@
 
 ## C++ 
 
+- [boden](https://github.com/AshampooSystems/boden) - Purely native C++ cross-platform framework for Android and iOS development. https://www.boden.io
+- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [taichi](https://github.com/yuanming-hu/taichi) - Computer Graphics R&D Infrastructure
 - [halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
@@ -117,7 +121,7 @@
 - [Modern-Cpp-Programming-Cookbook](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook) - Modern Cpp Programming Cookbook, by Packt
 - [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
-- [oatpp](https://github.com/oatpp/oatpp) - 🌱Light, zero-dependency framework. Create bleedingly-fast web-services.  Organic. Pure C++
+- [oatpp](https://github.com/oatpp/oatpp) - 🌱Light, high-performance web framework. Create bleedingly-fast web-services.  Organic. Pure C++
 - [cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
@@ -134,6 +138,7 @@
 
 ## CSS 
 
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [minimalism](https://github.com/xenlism/minimalism) - Minimal Gnome Shell Theme
 - [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
@@ -165,7 +170,8 @@
 
 ## Go 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
+- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang
@@ -226,7 +232,7 @@
 - [android-calendar-view](https://github.com/myjoybar/android-calendar-view) - 显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。Easy to use, powerful, easy to expand the android calendar view library.
 - [Musicoco](https://github.com/DuanJiaNing/Musicoco) - 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 - [logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
 - [anychat](https://github.com/dianbaer/anychat) - anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。
 - [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
 - [KaoYanDanci](https://github.com/HIjack2015/KaoYanDanci) - 考研单词app源码.希望对你有帮助
@@ -244,6 +250,8 @@
 
 ## JavaScript 
 
+- [vue-function-api](https://github.com/vuejs/vue-function-api) - Vue2 plugin for the function-based RFC.
+- [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
 - [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [husky](https://github.com/typicode/husky) - 🐶 Git hooks made easy
@@ -274,7 +282,7 @@
 - [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next) - Elegant theme for Jekyll.
 - [anyupload](https://github.com/dianbaer/anyupload) - anyupload是一个极度纯净的上传插件，通过简单调整就可以融入到任何项目，支持多文件上传、上传速率动态控制、真实进度监控kb/s、分块生成MD5、分块上传、MD5校验秒传、暂停、取消等。仅需1000行代码
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (April 2019)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (May 2019)
 - [hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
@@ -282,13 +290,13 @@
 - [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 - [pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
 - [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) - 追书神器 接口分析包装
-- [Eva](https://github.com/shuiRong/Eva) - 🐳🐬Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])  🐋  DEMO:
+- [Eva](https://github.com/shuiRong/Eva) - 🐳🐬Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])  🐋
 - [duoshuo-https](https://github.com/chaclee/duoshuo-https) - 多说https,让多说评论头像,表情支持https
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [Life-Time-Tracker](https://github.com/zhangmhao/Life-Time-Tracker) - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 - [BaiduNetdisk-WAP](https://github.com/XhstormR/BaiduNetdisk-WAP) - BaiduNetdisk (WAP)
-- [lightbox2](https://github.com/lokesh/lightbox2) - The original lightbox script, now on Github!
+- [lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [bangumi-list](https://github.com/wxt2005/bangumi-list) - 大陆版权新番播放地址聚合站 V2
@@ -344,7 +352,7 @@
 ## Objective-C 
 
 - [leancloud-social-ios](https://github.com/leancloud/leancloud-social-ios) - LeanCloud 社交登录组件，轻松加入 QQ、微博、微信登录
-- [TO-DO](https://github.com/Seanwong933/TO-DO) - 一个无后端待办事项应用，数据用 LeanCloud 进行同步。
+- [TO-DO](https://github.com/siegrainwong/TO-DO) - 一个无后端待办事项应用，数据用 LeanCloud 进行同步。
 
 ## Others 
 
@@ -388,7 +396,7 @@
 - [commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
-- [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
+- [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources) - 
 - [One-Click-to-Be-Pro](https://github.com/vicoyeh/One-Click-to-Be-Pro) - A curated list of resources to help you start learning a new CS topic
 - [one-python](https://github.com/geekan/one-python) - We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.
@@ -396,6 +404,10 @@
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+## PLpgSQL 
+
+- [tripRecord](https://github.com/wwenj/tripRecord) - 咔咔出行——解决出行问题基于高德地图API，Vue，Express实现的移动端全栈webapp
 
 ## Perl 
 
@@ -414,11 +426,12 @@
 
 ## Python 
 
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论（STAT 157）”教材。
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [ant_nest](https://github.com/strongbugman/ant_nest) - Simple, clear and fast Web Crawler framework build on python3.6+, powered by asyncio.
 - [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [agm](https://github.com/Cloudbakers/agm) - An (unofficial) command line interface for Google APIs
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -452,7 +465,7 @@
 - [budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [iSearch](https://github.com/louisun/iSearch) - 有道词典 命令行查询 柯林斯词典 单词管理 本地保存
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 一个分享 GitHub 上有趣、入门级的开源项目。让你找到编程的乐趣，欢迎推荐、自荐项目「每月28号更新」
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -467,7 +480,6 @@
 - [wechatircd](https://github.com/MaskRay/wechatircd) - ㊙用IRC客户端控制微信网页版
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
@@ -481,7 +493,7 @@
 - [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
-- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
@@ -537,7 +549,7 @@
 - [command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM
 - [dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
 - [git-wiki](https://github.com/sr/git-wiki) - A quick & dirty git-powered Sinatra wiki
-- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
+- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Core Infrastructure Initiative Best Practices Badge
 
 ## Rust 
 
@@ -556,7 +568,7 @@
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, and MobaXterm)
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal
 - [arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux and ArchlinuxARM Repository for Education
 - [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
@@ -575,12 +587,14 @@
 
 ## TeX 
 
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
 
 ## TypeScript 
 
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [prime](https://github.com/birkir/prime) - ✨Open Source GraphQL CMS
 - [HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [2019-typography-calendar](https://github.com/Ovilia/2019-typography-calendar) - 2019 字体日历 App
